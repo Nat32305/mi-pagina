@@ -217,20 +217,18 @@
 .articulos {
   min-height: 500px;
   padding: 30px;
-  display: flex;
-  align-items:center;
-  justify-content:center;
 }
 
 .articulos .card {
   width: 80%;
-  max-width:600px;
-  margin:0;
+  max-width: 600px;
+  margin: 20px;
 }
-.articulos card-header
-{
+
+.articulos .card-header {
   font-weight: bold;
 }
+
 /* testimonios */
 
 .testimonios {
